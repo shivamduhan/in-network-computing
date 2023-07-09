@@ -3,3 +3,4 @@
 decision trees
 Random Forest
 presentation
+feature vector calculation
