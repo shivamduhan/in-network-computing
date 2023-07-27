@@ -3,4 +3,5 @@
 decision trees
 Random Forest
 presentation
+get data and train
 feature vector calculation
