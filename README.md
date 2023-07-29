@@ -5,3 +5,6 @@ Random Forest
 presentation
 get data and train
 feature vector calculation
+
+
+Will use VOC dataset.
