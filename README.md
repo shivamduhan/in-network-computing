@@ -8,3 +8,4 @@ feature vector calculation
 
 
 Will use VOC dataset.
+training process on CPU.
